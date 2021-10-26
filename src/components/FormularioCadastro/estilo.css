@@ -21,8 +21,7 @@
   width: 30%;
   background-color: var(--secundaria);
   color: white;
-  font-size: 400;
-  padding: 1rem;
+  font-weight: 400;
 }
 
 .form-cadastro_submit:active {
